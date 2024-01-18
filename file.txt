@@ -7,3 +7,4 @@ this is the sixth line.
 this is the seventh line.
 
 this is a line which was added on git hub
+this is a file in the side branch 
